@@ -1,4 +1,4 @@
 language: clojure
-script: lein clean test
+script: lein test
 notifications:
   on_failure: always
