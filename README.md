@@ -10,6 +10,8 @@ Prints out the following for a contiguous range of numbers:
 * if the number contains a `three` output the text `lucky`, overriding any existing behaviour
 * report at the end of the program showing how many times each `word` was substituted
 
+Check the Java version [here](https://github.com/PauloPortugal/real-fizzbuzz-java).
+
 ## Example
 
 Running the program over a range from 1-20 one should get the following output:
